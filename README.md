@@ -4,7 +4,7 @@
 An application used to write and store notes for user. 
 
 ## Instructions 
-Click on "open app" in heroku deployed application located at: https://dashboard.heroku.com/apps/transley-notes
+Click on "open app" in heroku deployed application located at: https://transley-notes.herokuapp.com
 
 ## Usage
 You can enter a new note title and information, click on other pre-existing notes and delete notes as needed. 
